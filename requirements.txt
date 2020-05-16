@@ -1,0 +1,15 @@
+Flask==0.12.2
+flask-restful==0.3.6
+markdown==2.6.11
+psycopg2
+flask-migrate
+flask-script
+marshmallow
+flask-bcrypt
+pyjwt
+pytest
+coverage
+pytest-cov
+python-coveralls
+gunicorn
+python-dotenv
